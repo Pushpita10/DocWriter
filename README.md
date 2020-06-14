@@ -7,3 +7,5 @@ API with active users using Node.JS and Socket.IO
 * Creators of document can restrict their doc file to see the information with password
 * Error handling for various parts of the app
 * Bootstrap for the UI
+
+Clone or download the zip file. Go to that folder and run "npm install", it will autometically install all the packages. Then run "node chat-server" and open localhost:3456.
