@@ -8,4 +8,4 @@ API with active users using Node.JS and Socket.IO
 * Error handling for various parts of the app
 * Bootstrap for the UI
 
-Clone or download the zip file. Go to that folder and run "npm install", it will autometically install all the packages. Then run "node chat-server" and open localhost:3456.
+Clone or download the zip file. Go to that folder and run "npm install", it will autometically install all the packages. Then run "node server" and then open localhost:3456 in the browser.
