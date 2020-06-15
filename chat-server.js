@@ -18,7 +18,7 @@ var privateMessages = {}; // map from privateRoomId to array of messages
 var app = http.createServer(function(req, resp){
 	// This callback runs when a new connection is made to our HTTP server.
  
-	fs.readFile("client.html", function(err, data){
+	fs.readFile("index.html", function(err, data){
 		// This callback runs when the client.html file has been read from the filesystem.
  
 		if (err) return resp.writeHead(500);
